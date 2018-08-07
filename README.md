@@ -8,4 +8,9 @@
 - Click clone
 - Choose location on your machine/computer
 + You will see folder on your machine/computer
-+ Copy all files regarding your application folder
++ Copy all files regarding your application folder to GitHub folder on machine/computer
++ Click 'Changes' on GitHub Desktop
++ Give commit message in GitHub desktop
++ Press sync on GitHub desktop
++ Refresh GitHub webapp/site
+Click on repo -- go to settings -- go to GitHub pages -- click on the link provided.
