@@ -13,4 +13,4 @@
 + Give commit message in GitHub desktop
 + Press sync on GitHub desktop
 + Refresh GitHub webapp/site
-Click on repo -- go to settings -- go to GitHub pages -- click on the link provided.
+Click on repo -- go to settings -- go to GitHub pages -- click on the link provided.Example for this repo https://chsarpong.github.io/bootstrap-4.1.3-Exercise05082018/
