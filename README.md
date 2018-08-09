@@ -1,5 +1,5 @@
 # bootstrap-4.1.3-Exercise05082018 - Question : How can I create a working repo on GitHub and host a webapp/site on GitHub Pages?
-+ Create repo
++ Go to github.com - Create repo
 + Initialize with editor -- Create repo
 + On clone or download option -- Copy url
 + Go to GitHub Desktop 
